@@ -40,18 +40,4 @@ Pilot your ship through endless waves of increasingly dangerous enemies. Chain k
 - Progressive wave difficulty with dynamic enemy spawning
 - Custom crosshair and parallax starfield
 
-## 🚀 Run Locally
 
-```bash
-git clone https://github.com/jvarghesetech/nova-strike.git
-cd nova-strike
-open index.html
-```
-
-## 🛠️ Deploy
-
-To host via GitHub Pages, enable Pages in your repo settings and set the source to the `main` branch. The game will be live at `https://jvarghesetech.github.io/nova-strike/`.
-
-## 📄 License
-
-MIT
