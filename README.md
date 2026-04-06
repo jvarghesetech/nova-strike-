@@ -2,7 +2,7 @@
 
 A fast-paced neon space shooter built with vanilla HTML5 Canvas and JavaScript — no frameworks, no dependencies, no external assets. Everything from the graphics to the sound effects is procedurally generated in the browser.
 
-## [🕹️ Play Live Demo](https://jvarghesetech.github.io/nova-strike/)
+## [🕹️ Play Live Demo](https://jvarghesetech.github.io/nova-strike-/)
 
 ## 🎮 Gameplay
 
